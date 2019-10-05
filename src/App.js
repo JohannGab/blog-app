@@ -1,26 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import SelectBlog from './components/SelectBlog';
+import './components/style.scss'
 
-function App() {
+
+
+class App extends React.Component {
+render() { 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <>
+  <div className="selectTitle">
+    <h1 className="title">Mon blog</h1>
+    <h2>Selectionnez votre blog</h2>
+  </div>
+  <SelectBlog />
+  
+  </>
   );
+}
 }
 
 export default App;

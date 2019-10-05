@@ -1,0 +1,28 @@
+.selectTitle {
+    text-align: center;
+}
+
+.title{
+    color: goldenrod;
+    font-size: 50px;
+}
+
+.selectDiv {
+    text-align: center; 
+}
+
+
+.blogText {
+    text-align: center;
+    
+    .titleBlog {
+    font-size: 40px; 
+    }
+    .description {
+        padding: 0 200px 0 200px;
+    }
+    .author {
+        text-align: end;
+        padding-right: 220px;
+    }
+}

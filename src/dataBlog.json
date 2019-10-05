@@ -1,0 +1,27 @@
+
+
+[
+    {
+        "id": 1,
+        "title": "Volvic",
+        "image":"",
+        "description" : "L’eau minérale naturelle Volvic est puisée au cœur du Parc Naturel Régional des Volcans d’Auvergne, dans la Chaîne des Puys. Issue d’une nappe souterraine profonde de plus de 90 m, elle est filtrée pendant plus de 5 ans dans les sous-sols volcaniques. Eau familiale, naturelle et authentique, l'eau de Volvic permet à tous de s’hydrater en profondeur chaque jour.",
+        "author": "Volvic admin"
+    },
+    {   
+        "id": 2,
+        "title": "Evian",
+        "image":"",
+        "description" : "L'eau evian naît au coeur des Alpes françaises, elle est protégée et filtrée pendant plus de 15 ans par des sables glaciaires riches en minéraux. Pure telle que la nature l'a créée, l'eau evian jaillit à Evian-les-Bains où elle est embouteillée depuis 1826.",
+        "author": "Evian admin"
+    },
+    {   
+        "id": 3,
+        "title": "Badoit",
+        "image":"",
+        "description" : "L’eau Badoit se distingue par la subtilité de son goût unique, tout en délicatesse des arômes et finesse des bulles. C’est pourquoi depuis plus de 150 ans, Badoit est l’eau de toutes les tables, de celles des chefs à celles du quotidien !",
+        "author": "Badoit admin"
+    }
+    
+
+]
